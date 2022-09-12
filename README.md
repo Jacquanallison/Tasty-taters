@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-jacquan.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone 
+git clone https://github.com/Jacquanallison/Tasty-taters.git
 ```
 
 2. Backend setting
